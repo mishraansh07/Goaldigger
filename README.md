@@ -22,5 +22,5 @@ GOALdigger is a machine learning project that predicts football match outcomes a
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/GOALdigger-Football-Prophecies.git
+git clone https://github.com/mishraansh07/GOALdigger-Football-Prophecies.git
 cd GOALdigger-Football-Prophecies
