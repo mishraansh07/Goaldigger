@@ -28,9 +28,17 @@ You can download it from Google Drive:
 
 > After downloading, place `database.sql` in the project root directory before running `main.py`.
 
+# GOALdigger ⚽ – Football Prophecies
+
+[![CodeDay Certificate](https://img.shields.io/badge/Completed-CodeDay%20Summer%202025-brightgreen?style=for-the-badge&logo=Codewars)](https://showcase.codeday.org/api/certificate/cmcr8u8zo1530559rmy83m4m9eb)
+
+A Python-based machine learning project that predicts football match outcomes and scorelines.
+
 
 ### Clone the repository
 
 ```bash
 git clone https://github.com/mishraansh07/GOALdigger-Football-Prophecies.git
-cd GOALdigger-Football-Prophecies
+cd GOALdigger-Football-Prophecies 
+
+
